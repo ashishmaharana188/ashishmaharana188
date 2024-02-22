@@ -1,5 +1,5 @@
 ### Hi there 👋
-
+![](https://komarev.com/ghpvc/?username=Ashish-Maharana188&color=green)
 <!--
 **Ashish-Maharana188/Ashish-Maharana188** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
