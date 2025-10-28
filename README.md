@@ -1,5 +1,4 @@
-<h1 align="center">Hello, I'm Ashish Maharana</h1>
-<h3 align="center">- Passionate about data analytics and a career in tech</h3>
+<h1 align="center">Hello, I'm Ashish</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ashishmaharana188&label=Profile%20views&color=0e75b6&style=flat" alt="ashishmaharana188" /> </p>
 
